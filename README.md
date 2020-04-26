@@ -25,7 +25,7 @@ rm -rf ~/.config/nvim
 ```
 
 3. Clone:
-``
+```
 $ git clone https://github.com/nmeowt/nmt-vim-config.git ~/.config/nvim/
 ```
 
@@ -44,11 +44,9 @@ If you want to get newest version of `vim/neovim` plugin, in `vim/neovim` simply
     :PlugUpdate
 
 
-
 Credit
 -------
 
 Thanks to:
 
 [The Full Snack](https://thefullsnack.com/) and his amazing [config](https://github.com/huytd/vim-config)
-`
