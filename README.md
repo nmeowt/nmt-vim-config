@@ -1,6 +1,6 @@
 ## Setup Neovim like an IDE
 
-![](https://imgur.com/bDWzyS6)
+![Screenshot](https://imgur.com/8gjO3cX)
 
 ## Overview
 
