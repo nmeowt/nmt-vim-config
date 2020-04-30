@@ -255,6 +255,8 @@ nnoremap <Leader>tx :tabclose<CR>
 nnoremap <Leader>at :call FloatTerm()<CR>
 " Open node REPL
 nnoremap <Leader>an :call FloatTerm('"node"')<CR>
+ " Open tig
+nnoremap <Leader>ag :FloatTerm('"tig"')<CR>
 
 " NERDTree config
 let NERDTreeMinimalUI=1
@@ -562,4 +564,3 @@ nnoremap \ :Ag<SPACE>
 
 " Some custom style
 highlight Normal guibg=NONE
-highlight CursorLineNr guibg=NONE
