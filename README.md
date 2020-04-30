@@ -1,4 +1,4 @@
-## Setup Neovim like an IDE
+## Setup Neovim like an IDE on MacOS
 
 ![](https://i.imgur.com/8gjO3cX.png)
 
